@@ -2,8 +2,9 @@
 
 ------
 <br>
-This programs executes in the console and lets you play minesweeper
-The mines are set randomly and are controlled by the MINAS pre-procesing macro.
+This programs executes in the console and lets you play minesweeper<br>
+The mines are set randomly and are controlled by the MINAS pre-procesing macro.<br>
+Note: The weird ascii characters from the screenshots look better in windows but I'm compiling from linux for the screenshots.
 <br>
 <br>
 -----
