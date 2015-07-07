@@ -11,8 +11,8 @@ It starts in the console, there you choose the number of disks to use from 1 to 
 -----
 
 Then it starts solving the tower<br>
-![TowerHanoi 2](/screenshots/torre_hanoi_2.png)<br>
+![TowerHanoi 2](/Torre Hanoi/screenshots/torre_hanoi_2.png)<br>
 Until it ends<br>
-![TowerHanoi 3](/screenshots/lorre_hanoi_3.png)<br>
+![TowerHanoi 3](/Torre Hanoi/screenshots/torre_hanoi_3.png)<br>
 
  
